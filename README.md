@@ -13,7 +13,7 @@ This repository contains lab work for LAB 3 of the
 Computer Fundamentals & Career Pathways (CSE103) course at
 
 K.R. Mangalam University, Gurugram.
-
+lion
 ## Repository Structure
 
 ```
@@ -67,6 +67,7 @@ python3 main.py
 - Pushed and pulled changes with a GitHub remote
 
 - Authored structured Markdown documentation
+  
 
 ## References
 
