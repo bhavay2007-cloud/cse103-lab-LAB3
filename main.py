@@ -1,3 +1,2 @@
-print("Output from main branch")
-print("Output from feature-branch")
-
+print("output from main branch")
+print("output from feature-branch")
